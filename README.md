@@ -7,5 +7,5 @@ I am a student of the Entertainment Industry Management Masters (MEIM) at Heinz.
 # What I hope to learn
 As someone with a bachellors degree in communications, I understand the importance of it and how it can shape the way we see the world and live our daily lives. Data visualization is a key part of that. In this course I look forward to learn new tools to create visualizations and gain knowledge on how to use these tools and dataviz theory to convey a story.
 
-# Portfolio
+# My Class Portfolio
 I will be posting my data visualizations throughout the class here and tracking my progress. 
