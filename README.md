@@ -9,3 +9,5 @@ As someone with a bachellors degree in communications, I understand the importan
 
 # My Class Portfolio
 I will be posting my data visualizations throughout the class here and tracking my progress. 
+
+# dataviz2
