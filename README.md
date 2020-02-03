@@ -12,3 +12,6 @@ I will be posting my data visualizations throughout the class here and tracking 
 
 ## OECD Dataviz
 Click [here](/dataviz2.md) for Assignment 2.
+
+## Youtuber Athletes
+Click [here] for Assignment 3.
