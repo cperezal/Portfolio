@@ -14,4 +14,4 @@ I will be posting my data visualizations throughout the class here and tracking 
 Click [here](/dataviz2.md) for Assignment 2.
 
 ## Youtuber Athletes
-Click [here] for Assignment 3.
+Click [here](/dataviz3.md) for Assignment 4.
