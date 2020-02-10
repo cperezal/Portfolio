@@ -17,4 +17,4 @@ Click [here](/dataviz2.md) for Assignment 2.
 Click [here](/dataviz3.md) for Assignment 4.
 
 # Final Project
-Take a look at Part 1 of my project [here]
+Take a look at Part 1 of my project [here](/final_project_clara.md)
