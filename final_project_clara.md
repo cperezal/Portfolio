@@ -32,3 +32,5 @@ Sports Show, Sourav Das. (2020). Top 10 Most Popular Sports in the World [Update
 
 ## Method and Medium
 Finally, the project will be presented using Shorthand. A Shorthand page will be created for the whole project and the same one will be used for the 60 second-presentation. This page will be divided in three sections (as shown on the sketches) and the audience will be able to scroll down the entire page. Therefore, the story will be told in a linear fashion. The use of color has not yet been determined, but the same color theme will be used throughout the presentation. Shorthand will provide a simple way for the audience to engage with the data and follow the story. Although the story will be told using texts and data visualizations, some graphs will be interactive and allow the audience to explore other categories that might not be the central theme of the presentation. For example, as shown in the first sketch, it will be possible to filter athletes by gender, although gender is not the central theme.
+
+Go back to my main [portfolio page](/README.md)
