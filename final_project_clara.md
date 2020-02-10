@@ -17,5 +17,6 @@ My project will be structured in the following way, with the following story arc
 10. Takeaway: Working in the sports industry, I think it is important to understand fan behaviour, to know how to communicate with fans from different sports.
 
 ## Initial Sketches
-![wireframe](/sketch 2.jpg)
-![wireframe](/sketch 1.jpg)
+![wireframe](/Sketch 2.jpg)
+
+![wireframe](/Sketch 1.jpg)
