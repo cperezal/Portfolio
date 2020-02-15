@@ -19,4 +19,4 @@ Click [here](/dataviz3.md) for Assignment 4.
 # Final Project
 Take a look at the first part of my project [here](/final_project_clara.md).
 
-Interested in seeing the [work in progress](/part 2.md)? Take a look!
+Interested in seeing the [work in progress](/part2.md)? Take a look!
