@@ -8,4 +8,6 @@ The audience of this presentation is people that have some knowledge of sports i
 
 | Question | Main Findings |
 | -------- | ------------- |
-| What do you think the main point is? | ueieieieieieieiieiei |
+| What do you think the main point is? |
+| What's the difference between the dot plot and the bar graph? |
+| Is there anything you find confusing? |
