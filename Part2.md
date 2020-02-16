@@ -37,3 +37,5 @@ Created using [Infogram](/https://infogram.com)
 Created using [Tableau](/https://www.tableau.com)
 
 ![Pay cycle](/Pay Cycle.png)
+
+Created using [Canva](/www.canva.com)
