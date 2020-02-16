@@ -8,6 +8,6 @@ The audience of this presentation is people that have some knowledge of sports i
 
 | Question | Main Findings |
 | -------- | ------------- |
-| What do you think the main point is? |
-| What's the difference between the dot plot and the bar graph? |
-| Is there anything you find confusing? |
+| What do you think the main point is? | Most interviewees agreed that I was trying to find a relation between most popular athletes and most popular sports. However, all of them were misguided about why I included the olympics in the last slide. One of them thought that I was trying to show that the top 100 popular athletes went to the olympics. 
+| What's the difference between the dot plot and the bar graph? | I was worried that the difference between these two charts wouldn't be clear, and it wasn't. Only one of them understood that the bar chart shows the most popular sports in order and then adds the popular athletes information. One of the interviewees was simply more drawn to the dot plot because of the colors. Digging in deeper, I understood that the confussion came from the graph showing the most popular sports. The circle plot with different sizes included the variable of "followers" for size, but the interviewees got confused. They simply needed to see a list of the most popular sports, so they could get the background information to understand the bar chart. 
+| Is there anything you find confusing? | Only one interviewee understood why I included "pay" in the presentation. One of them initially thought I was trying to get the audience to pay for something. 
