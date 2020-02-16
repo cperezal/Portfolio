@@ -13,3 +13,10 @@ The audience of this presentation is people that have some knowledge of sports i
 | Is there anything you find confusing? | Only one interviewee understood why I included "pay" in the presentation. One of them initially thought I was trying to get the audience to pay for something. They were also all "caught off guard" with the mention of the olympics. |
 | What are my final conclusions? | Although most didn't understand the call to action or the point I was trying to make by mentioning "pay", they all understood that some sports were under-represented in the top popular athletes list. |
 | Other remarks | One of the interviewees suggested that he wasn't sure if low popularity was a consequence of low pay or if it was the other way around. I found this very insightful. |
+
+## Revised Wireframes
+Below are the revised wireframes. The first thing I changed is the dot plot for a pictorial. I think the representation of athletes with an icon of a person is much easier to understand than dots. Also, it is easy to see the relationship about which sports are the most popular. Likewise, creating an "other sports" group helps to reduce color clutter. The option of hovering over the icons and get the exact number of athletes is also a positive change, as it allows the audience to not only get a broad picture of what athletes play, but also be able to dig in deeper if they are interested.
+Then, I replaced the bubble chart showing the top 10 most popular sports with a list, proving to be much more clear and easy to understand not only which are the top sports but also the following bar graph. Adding the numbers at the end of the bars instead of having a y-axis also makes the chart clearer. One of the most important things I incorporated is the explanation of the pay hypothesis. I took my interviewees observation about what comes first, pay or popularity, and visualzied that into a cycle, showing that although that is my hypothesis, it is hard to know what comes first. Lastly, I mentioned the olympics but simply as an "excuse" to get to know athletes, not as the main story.
+
+Here are my revised wireframes:
+![revised-wireframes](/Wireframes.png)
