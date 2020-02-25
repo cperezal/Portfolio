@@ -40,6 +40,7 @@ Finally, the project will be presented using Shorthand. A Shorthand page will be
 
 # Part II: Wireframes and User Research
 
+
 ## Wireframes - First Draft
 Here is the first draft of my wireframes. I decided to do them by hand so I would have for me freedom with my ideas and wouldn't be constrained to my limited knowledge on software. Although the shorthand page will be a scroll, I did the wireframe in a horizontal matter, for the purpose of maximizing the space on the page.
 
