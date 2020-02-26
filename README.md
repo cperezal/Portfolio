@@ -10,7 +10,7 @@ As someone with a bachellors degree in communications, I understand the importan
 # My Class Portfolio
 I will be posting my data visualizations throughout the course on this page and tracking my progress. By looking at the assignment pages, you will be able to walk through my process and understand what each assignemnt entailed.
 
-## [OECD Dataviz](/dataviz2.md)
+## OECD Dataviz
 For this assignment, I took a look at data from the OECD and designed a new data viz that told a specific story that was not clear in the original visualization. Click [here](/dataviz2.md) to take a look at the assignment.
 
 ## Youtuber Athletes
