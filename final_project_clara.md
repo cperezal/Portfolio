@@ -1,3 +1,5 @@
+# POPULARITY IN SPORTS - FINAL PROJECT
+
 # Part I: Outline
 
 ## Project Summary
