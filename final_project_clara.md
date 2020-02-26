@@ -86,7 +86,7 @@ Created using [Tableau](https://www.tableau.com)
 
 ![Pay cycle](/Pay Cycle.png)
 
-Created using [Canva](www.canva.com)
+Created using [Canva](http://www.canva.com)
 
 # Part III: Final Deliverable
 
@@ -96,7 +96,7 @@ When deciding my topic, I was aiming at chosing a subject that will be relevant 
 When tailoring my presentation, I decided to put more focus in the popularity aspect and what could lead to this popularity. In order to do this, I gave more emphasis to the pay element of the story. This way, I was able to change my audience focus in order to appeal to people that are interested in pop culture in general.
 
 ## Design decisions
-Given that I had a lot of infographics in my project, the first obstacle I encountered was deciding whether I should use the same format for all of them. I found that no template or specific software fit my needs, so I designed my own infographics and used both [Canva](www.canva.com) and [Infogram](www.infogram.com). In order to give the visuals some continuity, I used similar color schemes for all the infographics. 
+Given that I had a lot of infographics in my project, the first obstacle I encountered was deciding whether I should use the same format for all of them. I found that no template or specific software fit my needs, so I designed my own infographics and used both [Canva](http://www.canva.com) and [Infogram](www.infogram.com). In order to give the visuals some continuity, I used similar color schemes for all the infographics. 
 
 In order to show which sports the athletes in the top 100 play, I decided to use a pictorial because I liked the idea of one person representing one athlete. However, I ecountered certain limitations in the Infogram platform and was not able to plot 100 icons. Therefore, I chose to show porportions, which still clearly shwos that soccer, basketball, and cricket are most represented in the most popular athletes list. However, by mousing over the graph, the exact numbers are shown. I grouped sports that have less than 3 athletes on the list as "others" because there were over 10 sports in the list, and showing all of them sepparately was going to generate visual clutter.
 
