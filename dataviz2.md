@@ -5,7 +5,7 @@ For this assignment, I took a look at the OECD's data on government debt and how
 ## Original Visualizations
 <iframe src="https://data.oecd.org/chart/5OPO" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5OPO" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
 
-Take a look at the original data [here](https://data.oecd.org)
+Take a look at the original data [here](https://data.oecd.org/gga/general-government-debt.htm)
 
 ## Beesworm Plot
 First, I took the data to create a beesworm plot that shows government for each country from 1996 to 2018. This graphwas created using [RAWGraphs](https://rawgraphs.io). In this visualization, it is possible to compare how countries' government debt as a percentage of GDP (represented by circles) has change over time. Many circles grow over time, this shows that the proportion of government debt has grown. The lack of a circle suggests that data is unavailable for that specific country. However, it is not the best graph to identify specific trends in the data. 
