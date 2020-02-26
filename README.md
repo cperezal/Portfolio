@@ -18,4 +18,4 @@ Click [here](/dataviz3.md) for Assignment 4.
 
 # Final Project
 For my final project a decided to take a look at popularity in sports. You can find my process [here](/final_project_clara.md).
-Also, check out my [Final Presentation](/https://carnegiemellon.shorthandstories.com/is-there-a-relation-between-the-most-popular-athletes-and-the-most-popular-sports-/index.html)!
+Also, check out my [Final Presentation](https://carnegiemellon.shorthandstories.com/is-there-a-relation-between-the-most-popular-athletes-and-the-most-popular-sports-/index.html)!
