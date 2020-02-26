@@ -17,6 +17,5 @@ Click [here](/dataviz2.md) for Assignment 2.
 Click [here](/dataviz3.md) for Assignment 4.
 
 # Final Project
-Take a look at the first part of my project [here](/final_project_clara.md).
-
-Interested in seeing the [work in progress](/Part2.md)? Take a look!
+For my final project a decided to take a look at popularity in sports. You can find my process [here](/final_project_clara.md).
+Also, check out my [Final Presentation](/https://carnegiemellon.shorthandstories.com/is-there-a-relation-between-the-most-popular-athletes-and-the-most-popular-sports-/index.html)!
