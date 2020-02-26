@@ -25,17 +25,17 @@ My project will be structured in the following way, with the following story arc
 ![wireframe](/Sketch 1.jpg)
 
 ## Data Sources
-For this project, I will use two separate sources of data. First, I will focus on [ESPN's World Fame 100](/http://www.espn.com/espn/feature/story/_/id/26113613/espn-world-fame-100-2019). Every year ESPN prepares a list of the 100 most popular athletes. In order to create this ranking, ESPN uses three different variables: search score, endorsements, and social media followers. However, for this project, I will only use the ranked position for each athlete, the sport they play, and their nationality. This data is publicly available online.
+For this project, I will use two separate sources of data. First, I will focus on [ESPN's World Fame 100](http://www.espn.com/espn/feature/story/_/id/26113613/espn-world-fame-100-2019). Every year ESPN prepares a list of the 100 most popular athletes. In order to create this ranking, ESPN uses three different variables: search score, endorsements, and social media followers. However, for this project, I will only use the ranked position for each athlete, the sport they play, and their nationality. This data is publicly available online.
 
-Sachin D. Chandan, Charlotte Gibson, Fernando Olivieri, ESPN Stats and Information. (2019). 2019 World Fame 100. Retrieved from [http://www.espn.com/espn/feature/story/_/id/26113613/espn-world-fame-100-2019](/http://www.espn.com/espn/feature/story/_/id/26113613/espn-world-fame-100-2019).
+Sachin D. Chandan, Charlotte Gibson, Fernando Olivieri, ESPN Stats and Information. (2019). 2019 World Fame 100. Retrieved from [http://www.espn.com/espn/feature/story/_/id/26113613/espn-world-fame-100-2019](http://www.espn.com/espn/feature/story/_/id/26113613/espn-world-fame-100-2019).
 
-The second source that I will use is the [Top 10 Most Popular Sports in the World](/https://sportsshow.net/top-10-most-popular-sports-in-the-world/) ranking from Sports Show. In order to create this ranking, Sports Show used 15 different criteria, including global fan base, viewership, and tv rights deal, to identify which sports have the greatest number of followers. This source also includes information about the regions where each sport is more popular. For this project, I will only focus on the first 10 sports on the ranking, the number of followers. This data is also publically available online.
+The second source that I will use is the [Top 10 Most Popular Sports in the World](https://sportsshow.net/top-10-most-popular-sports-in-the-world/) ranking from Sports Show. In order to create this ranking, Sports Show used 15 different criteria, including global fan base, viewership, and tv rights deal, to identify which sports have the greatest number of followers. This source also includes information about the regions where each sport is more popular. For this project, I will only focus on the first 10 sports on the ranking, the number of followers. This data is also publically available online.
 
-Sports Show, Sourav Das. (2020). Top 10 Most Popular Sports in the World [Updated 2020]. Retrieved from [https://sportsshow.net/top-10-most-popular-sports-in-the-world/](/https://sportsshow.net/top-10-most-popular-sports-in-the-world/).
+Sports Show, Sourav Das. (2020). Top 10 Most Popular Sports in the World [Updated 2020]. Retrieved from [https://sportsshow.net/top-10-most-popular-sports-in-the-world/](https://sportsshow.net/top-10-most-popular-sports-in-the-world/).
 
-The last source that will be used is Forbes' list of [Highest-Paid Athletes](/https://www.forbes.com/athletes/list/#tab:overall). In order to organize this ranking, Forbes takes into account an athletes's salaries and their endorsements. I will use this data base to explore if there is a relationship between an athlete's pay and their popularity. 
+The last source that will be used is Forbes' list of [Highest-Paid Athletes](https://www.forbes.com/athletes/list/#tab:overall). In order to organize this ranking, Forbes takes into account an athletes's salaries and their endorsements. I will use this data base to explore if there is a relationship between an athlete's pay and their popularity. 
 
-Source: Forbes Media. (2019). The World’s Highest-Paid Athletes. Retrieved from [https://www.forbes.com/athletes/list/2/#tab:overall](/https://www.forbes.com/athletes/list/2/#tab:overall)
+Source: Forbes Media. (2019). The World’s Highest-Paid Athletes. Retrieved from [https://www.forbes.com/athletes/list/2/#tab:overall](https://www.forbes.com/athletes/list/2/#tab:overall)
 
 ## Method and Medium
 Finally, the project will be presented using Shorthand. A Shorthand page will be created for the whole project and the same one will be used for the 60 second-presentation. This page will be divided in three sections (as shown on the sketches) and the audience will be able to scroll down the entire page. Therefore, the story will be told in a linear fashion. The use of color has not yet been determined, but the same color theme will be used throughout the presentation. Shorthand will provide a simple way for the audience to engage with the data and follow the story. Although the story will be told using texts and data visualizations, some graphs will be interactive and allow the audience to explore other categories that might not be the central theme of the presentation. For example, as shown in the first sketch, it will be possible to filter athletes by gender, although gender is not the central theme.
@@ -77,15 +77,15 @@ Here are the full-scale visualizations from the wireframes:
   <a href="https://infogram.com/db2628f9-7b29-4359-9b54-2c8e2af16bae" style="color:#989898!important;text-decoration:none!important;" target="_blank">Pictorial</a>
   <br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a>
 </div>
-Created using [Infogram](/https://infogram.com)
+Created using [Infogram](https://infogram.com)
 
 ![Viz](/Bar graph.png)
   
-Created using [Tableau](/https://www.tableau.com)
+Created using [Tableau](https://www.tableau.com)
 
 ![Pay cycle](/Pay Cycle.png)
 
-Created using [Canva](/www.canva.com)
+Created using [Canva](www.canva.com)
 
 # Part III: Final Deliverable
 
@@ -95,7 +95,7 @@ When deciding my topic, I was aiming at chosing a subject that will be relevant 
 When tailoring my presentation, I decided to put more focus in the popularity aspect and what could lead to this popularity. In order to do this, I gave more emphasis to the pay element of the story. This way, I was able to change my audience focus in order to appeal to people that are interested in pop culture in general.
 
 ## Design decisions
-Given that I had a lot of infographics in my project, the first obstacle I encountered was deciding wether I should use the same format for all of them. I found that no template or specific software fit my needs, so I designed my own infographics and used both [Canva](/www.canva.com) and [Infogram](/www.infogram.com). In order to give the visuals some continuity, I used similar color schemes for all the infographics. 
+Given that I had a lot of infographics in my project, the first obstacle I encountered was deciding wether I should use the same format for all of them. I found that no template or specific software fit my needs, so I designed my own infographics and used both [Canva](www.canva.com) and [Infogram](www.infogram.com). In order to give the visuals some continuity, I used similar color schemes for all the infographics. 
 
 In order to show what sports the athletes in the top 100 play, I decided to use a pictorial because I liked the idea of one person representing one athlete. However, I ecountered certain limitations in the Infogram platform and was not able to plot 100 icons and have it still be interactive. Therefore, I chose to show porportions, which still clearly shwos that soccer, basketball, and cricket are most represented in the most popular athletes list. I grouped sports that only have one athlete in the list as "others" because there were over 10 sports in the list, and if I decided to show each one the color would have cluttered the visual.
 
@@ -104,7 +104,7 @@ One of the most important visualizations for the story is the one that shows how
 My final option, which was the most simple and the most effective was to create an infographic. Upon reflection, I think I had not thought of an infographic as an option because I was trying to make my presentation most "sofisticated" in regards to my data visualizations. However, as we have discussed in class, many times the simplest ideas are the ones that get the point accross and they should not be discredited for their simplicity.  
 
 ## Final Presentation
-Take a look at my final presentation and my full story [here](/https://carnegiemellon.shorthandstories.com/is-there-a-relation-between-the-most-popular-athletes-and-the-most-popular-sports-/index.html)
+Take a look at my final presentation and my full story [here](https://carnegiemellon.shorthandstories.com/is-there-a-relation-between-the-most-popular-athletes-and-the-most-popular-sports-/index.html)
 
 Go back to my main [portfolio page](/README.md)
 
