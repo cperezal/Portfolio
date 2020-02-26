@@ -46,6 +46,6 @@ I decided to do the final visualization using Tableau. The only difference is th
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-*Source: Bidarian, Nakisa. “Platform Power: Social Influencers Are Creating Opportunity in Combat Sports.” Sports Business Daily, 27 Jan. 2020, [www.sportsbusinessdaily.com/Journal/Issues/2020/01/27/Opinion/Bidarian.aspx](www.sportsbusinessdaily.com/Journal/Issues/2020/01/27/Opinion/Bidarian.aspx).*
+*Source: Bidarian, Nakisa. “Platform Power: Social Influencers Are Creating Opportunity in Combat Sports.” Sports Business Daily, 27 Jan. 2020,* [www.sportsbusinessdaily.com/Journal/Issues/2020/01/27/Opinion/Bidarian.aspx](www.sportsbusinessdaily.com/Journal/Issues/2020/01/27/Opinion/Bidarian.aspx)
 
 Go back to my main [portfolio page](/README.md)
