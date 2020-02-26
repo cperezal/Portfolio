@@ -1,4 +1,5 @@
 # POPULARITY IN SPORTS - FINAL PROJECT
+I took a look at popularity in sports and analyzed how the popularity of a sport and the popularity of its athletes relate. You can view my project [here](https://carnegiemellon.shorthandstories.com/is-there-a-relation-between-the-most-popular-athletes-and-the-most-popular-sports-/index.html) or go through my process below. 
 
 # Part I: Outline
 
