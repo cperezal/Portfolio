@@ -28,7 +28,7 @@ My project will be structured in the following way, with the following story arc
 ## Data Sources
 For this project, I will use two separate sources of data. First, I will focus on [ESPN's World Fame 100](http://www.espn.com/espn/feature/story/_/id/26113613/espn-world-fame-100-2019). Every year ESPN prepares a list of the 100 most popular athletes. In order to create this ranking, ESPN uses three different variables: search score, endorsements, and social media followers. However, for this project, I will only use the ranked position for each athlete, the sport they play, and their nationality. This data is publicly available online.
 
-Sachin D. Chandan, Charlotte Gibson, Fernando Olivieri, ESPN Stats and Information. (2019). 2019 World Fame 100. Retrieved from [http://www.espn.com/espn/feature/story/_/id/26113613/espn-world-fame-100-2019](http://www.espn.com/espn/feature/story/_/id/26113613/espn-world-fame-100-2019)
+Sachin D. Chandan, Charlotte Gibson, Fernando Olivieri, ESPN Stats and Information. (2019). 2019 World Fame 100. Retrieved from [ESPN](http://www.espn.com/espn/feature/story/_/id/26113613/espn-world-fame-100-2019)
 
 The second source that I will use is the [Top 10 Most Popular Sports in the World](https://sportsshow.net/top-10-most-popular-sports-in-the-world/) ranking from Sports Show. In order to create this ranking, Sports Show used 15 different criteria, including global fan base, viewership, and tv rights deal, to identify which sports have the greatest number of followers. This source also includes information about the regions where each sport is more popular. For this project, I will only focus on the first 10 sports on the ranking, the number of followers. This data is also publically available online.
 
