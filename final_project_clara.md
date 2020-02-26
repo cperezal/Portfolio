@@ -101,7 +101,8 @@ One of the most important visualizations for the story is the one that shows how
 
 My final option, which was the most simple and the most effective was to create an infographic. Upon reflection, I think I had not thought of an infographic as an option because I was trying to make my presentation most "sofisticated" in regards to my data visualizations. However, as we have discussed in class, many times the simplest ideas are the ones that get the point accross and they should not be discredited for their simplicity.  
 
-
+## Final Presentation
+Take a look at my final presentation and my full story [here](/https://carnegiemellon.shorthandstories.com/is-there-a-relation-between-the-most-popular-athletes-and-the-most-popular-sports-/index.html)
 
 Go back to my main [portfolio page](/README.md)
 
